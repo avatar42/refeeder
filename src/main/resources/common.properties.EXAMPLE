@@ -1,0 +1,13 @@
+mail.smtp.host=smtp-server.austin.rr.com
+blogger.to.addr=user@blogger.com
+wordpress.to.addr=code@post.wordpress.com
+from.addr=user@gmail.com
+from.name=From Name
+## sub your IDs in this URL
+## https://developers.facebook.com/tools/explorer/15794669763531/?method=GET&path=70763279
+## select Get Access token
+## see FaceBookRefeeder.MY_ACCESS_TOKEN
+
+## run maven install
+
+fb.token=AAACPptTOVfEBANDlEIPW8ss7YRchf2gWRuA6JwIheiVZCjNi2wFE7mDZB28AFthkdJArDhOA5ugbClGWukZAQT5t8kZCZBV97OSUupg51hwZDZD

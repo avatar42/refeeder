@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_23" class="java.beans.XMLDecoder"> 
+ <object class="dea.refeeder.FeedList"> 
+  <void method="add"> 
+   <object class="dea.refeeder.FeedListItem"> 
+    <void property="href"> 
+     <string>http://dvd.netflix.com/QueueRSS?id=P8948940922721742784481854194485164
+					</string> 
+    </void> 
+    <void property="lastTitle"> 
+     <string>001- Discworld: Wyrd Sisters</string> 
+    </void> 
+    <void property="maxToRead"> 
+     <int>1</int> 
+    </void> 
+    <void property="shortName"> 
+     <string>netflix.instantQue</string> 
+    </void> 
+    <void property="titleFilter"> 
+     <string>001-</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="dea.refeeder.FeedListItem"> 
+    <void property="href"> 
+     <string>http://youtube.com/rss/tag/deabigt.rss</string> 
+    </void> 
+    <void property="lastRead"> 
+     <long>1346519959000</long> 
+    </void> 
+    <void property="shortName"> 
+     <string>Youtube.deabigt</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="dea.refeeder.FeedListItem"> 
+    <void property="href"> 
+     <string>https://twitter.com/avatar_42</string> 
+    </void> 
+    <void property="lastRead"> 
+     <long>1373617126238</long> 
+    </void> 
+    <void property="shortName"> 
+     <string>twitter.avatar_42</string> 
+    </void> 
+   </object> 
+  </void> 
+  <void method="add"> 
+   <object class="dea.refeeder.FeedListItem"> 
+    <void property="href"> 
+     <string>https://twitter.com/deabigt</string> 
+    </void> 
+    <void property="lastRead"> 
+     <long>1373617126681</long> 
+    </void> 
+    <void property="shortName"> 
+     <string>twitter.deabigt</string> 
+    </void> 
+   </object> 
+  </void> 
+ </object> 
+</java> 

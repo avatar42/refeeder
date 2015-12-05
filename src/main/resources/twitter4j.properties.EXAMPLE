@@ -1,0 +1,10 @@
+## Get these Auth tokens from Twitter
+debug=true
+oauth.consumerKey=Pwx3zh7DJeoDpHZVRlig
+oauth.consumerSecret=yWqeqAnUcHByl2UWMeG9s1FoHMSgTA3dwm6C9WqC4
+#avatar42
+avatar_42.oauth.accessToken= 38239423-to6ARlCKjtl96Dv1OKT1wu3zDrovyVYL5nDe1Bs0
+avatar_42.oauth.accessTokenSecret=w42eIg9GT9Z7bYM7XLIpIyNhSdrzpAEoncfyl6s
+#deabigt
+deabigt.oauth.accessToken= 16418410-ZZs9kIARHOWMM4pulCA4yVBPPJXMxr9gQFPFdxtm
+deabigt.oauth.accessTokenSecret=57rBbNQtgjvP43fgwgljM8XzLte8STMizyg4PM
